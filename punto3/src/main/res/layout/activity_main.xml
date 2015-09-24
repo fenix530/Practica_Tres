@@ -1,0 +1,113 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:text="@string/Portada"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/NotaQ"/>
+
+        <EditText
+            android:layout_width="200px"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:id="@+id/eQuices"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/NotaE"/>
+
+        <EditText
+            android:layout_width="200px"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:id="@+id/eExpocision"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/NotaL"/>
+
+        <EditText
+            android:layout_width="200px"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:id="@+id/eLabs"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/NotaP"/>
+
+        <EditText
+            android:layout_width="200px"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:id="@+id/ePactica"/>
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/bCalucloar"
+        android:id="@+id/Calcular"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/NotaF"/>
+
+        <EditText
+            android:layout_width="200px"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:id="@+id/eFinal"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

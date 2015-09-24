@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">punto4</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Programa">Programa para Calular el area de una de las siguientes Figuras Geometricas</string>
+    <string name="Cuadro">Cuadrado</string>
+    <string name="Rectangulo">Rectangulo</string>
+    <string name="Triangulo">Triangulo</string>
+    <string name="Circulo">Circulo</string>
+    <string name="radio">Ingrese el Radio: </string>
+    <string name="lado">Ingrese el lado: </string>
+    <string name="base">Ingrese la Base</string>
+    <string name="altura">Ingrese la Altura</string>
+    <string name="bCalcular">Calcular</string>
+    <string name="Area">El Area es:</string>
+</resources>

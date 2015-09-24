@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">punto3</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Portada">Aplicacion para Calcular la Nota final del Curso</string>
+    <string name="NotaQ">Ingrese Nota de los Quices</string>
+    <string name="NotaE">Ingrese Nota de la Expocision</string>
+    <string name="NotaL">Ingrese Nota de Laboratorios</string>
+    <string name="NotaP">Ingrese Nota de Proyecto Final</string>
+    <string name="bCalucloar">Calcular</string>
+    <string name="NotaF">Su Nota Final es: </string>
+</resources>

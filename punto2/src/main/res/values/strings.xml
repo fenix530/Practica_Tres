@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Punto2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Programa">Programa Para Calcular una Operacion entre 2 Numeros</string>
+    <string name="bCalcular">Calcular</string>
+    <string name="bResultado">Aqui se Mostrara el Resultado</string>
+    <string name="Valor1">Ingrese Primer Numero</string>
+    <string name="Valor2">Ingrese Segundo Numero </string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multi">Multiplicacion</string>
+    <string name="Div">Division</string>
+    <string name="Result">El Resultado es:</string>
+</resources>

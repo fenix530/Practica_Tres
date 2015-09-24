@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Punto_5</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="programa">Formulario de Registro</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="identificacion">Numero de Identificcion</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+    <string name="fecha">Fecha de Nacimiento</string>
+    <string name="lugar">Lugar de Nacimiento</string>
+    <string name="hobbies">Selecciones sus Hobbies</string>
+    <string name="chek1">Natacion</string>
+    <string name="chek2">Videojuegos</string>
+    <string name="chek3">Leer</string>
+    <string name="chek4">Cine</string>
+    <string name="Registrar">Registrar</string>
+    <string-array name="ciudades">
+        <item>Medellin</item>
+        <item>Bogota</item>
+        <item>Cali</item>
+        <item>Brranquilla</item>
+        <item>Santa Marta</item>
+        <item>Cartagena</item>
+        <item>Bello</item>
+        <item>Envigado</item>
+        <item>Pereira</item>
+        <item>Manizales</item>
+        <item>Armenia</item>
+    </string-array>
+</resources>
